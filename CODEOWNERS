@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @firefart
+/src/backend/database.py      @firefart
+/src/backend/routers/auth.py  @firefart
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @firefart
